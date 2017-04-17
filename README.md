@@ -10,7 +10,7 @@ https://www.slideshare.net/natalinobusa/7-steps-for-highly-effective-deep-neural
 I thinking of taking screen captures of this project and posting it on youtube. So far my attempts have not been super successful (kudos to those pro youtubers out there - it's *definitely* not as easy as it looks).
 
 ## Intro
- - AI Practice: Project Intro  
+ - AI Practice: Project Intro #1 
 
 ## Regression
  - AI Practice: Regression with Keras #2  
