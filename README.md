@@ -1,26 +1,30 @@
 # deepnumbers
 A set of educational deep learning demos applied to the MNIST dataset
 
+## Slideshare
+
+You can find a presentation about this work at:  
+https://www.slideshare.net/natalinobusa/7-steps-for-highly-effective-deep-neural-networks
+
 ## Youtube
-I am giving at shot at capturing all those experiments with youtube. I am still learning how to do it right and the process is super tiresome, but I am just giving it a go and testing the waters. Let me know if youtube videos add anything to it or not. Feel free to subscribe to the channel and the playlist and leave comments on the channel.
+I thinking of taking screen captures of this project and posting it on youtube. So far my attempts have not been super successful (kudos to those pro youtubers out there - it's *definitely* not as easy as it looks).
 
 ## Intro
-[AI Practice: Project Intro](https://youtu.be/-IM6JZg6Ix4)  
+[AI Practice: Project Intro]()  
 
 ## Regression
-[AI Practice: Regression with Keras #2](https://youtu.be/aUEvvyBg5ic)  
-[AI Practice: Regression with Tensorflow #3](https://youtu.be/XoSV0usUZFA)  
-[AI Practice: Regression with TensorLayer #4](https://youtu.be/NZDhMoisc6U)  
-[AI Practice: Regression and Tensorboard #5](https://youtu.be/HNhQuT_sjpQ)  
+[AI Practice: Regression with Keras #2]()  
+[AI Practice: Regression with Tensorflow #3]()  
+[AI Practice: Regression with TensorLayer #4]()  
+[AI Practice: Regression and Tensorboard #5]()  
 
 ## SLP
-[AI Practice: MNIST SLP with Keras #6](https://youtu.be/OfwoLvrhkcI)  
-[AI Practice: MNIST SLP with Tensorflow #7](https://youtu.be/H19m8-d9zdI)  
-[AI Practice: MNIST SLP with Tensorlayer #8](https://youtu.be/MpvoRIxIzb8)  
-[AI Practice: MNIST SLP with TFLearn #9](https://youtu.be/mhBPlUrrwFM)  
-[AI Practice: MNIST SLP Tensorboard Graphs #10](https://youtu.be/aSz_q6ZAMtc)  
+[AI Practice: MNIST SLP with Keras #6]()  
+[AI Practice: MNIST SLP with Tensorflow #7]()  
+[AI Practice: MNIST SLP with Tensorlayer #8]()  
+[AI Practice: MNIST SLP with TFLearn #9]()  
+[AI Practice: MNIST SLP Tensorboard Graphs #10]()  
 
 ## MLP
-next week
-
+to be continued.
 
